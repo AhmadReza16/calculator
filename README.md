@@ -35,6 +35,11 @@ python calculator.py
 
 Just open the `index.html` file in your browser.
 
+
+📸 Preview
+
+![Uploading Screenshot.png…]()
+
 ---
 
 ## 🛠️ Built With
