@@ -38,7 +38,8 @@ Just open the `index.html` file in your browser.
 
 📸 Preview
 
-![Uploading Screenshot.png…]()
+<img width="463" height="579" alt="Screenshot" src="https://github.com/user-attachments/assets/de95adfc-feae-4527-acf0-105d7a714612" />
+
 
 ---
 
