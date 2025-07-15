@@ -41,14 +41,16 @@ Just open the `index.html` file in your browser.
 <img width="463" height="579" alt="Screenshot" src="https://github.com/user-attachments/assets/de95adfc-feae-4527-acf0-105d7a714612" />
 
 ---
+
 📸 Preview  JavaScript
 
-<img width="1366" height="768" alt="Screenshot JavasScript-Calculator" src="https://github.com/user-attachments/assets/c47b5f82-ed3e-4926-868c-a1d3f2057dfc" />
+<img width="487" height="398" alt="Screenshot JavasScript-Calculator" src="https://github.com/user-attachments/assets/57103b50-1086-4aa0-898d-c3802f28f09b" />
 
 ---
+
 📸 Preview  Python
 
-<img width="1366" height="768" alt="Screenshot Python-Calculator" src="https://github.com/user-attachments/assets/4bafbcd7-0996-4e07-84c6-554fe76a465b" />
+<img width="489" height="523" alt="Screenshot Python-Calculator" src="https://github.com/user-attachments/assets/57d9f77e-5e0a-4d29-98c6-63905ec13ad7" />
 
 ---
 
