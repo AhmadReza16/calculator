@@ -36,10 +36,19 @@ python calculator.py
 Just open the `index.html` file in your browser.
 
 
-📸 Preview
+📸 Preview  JavaScript
 
 <img width="463" height="579" alt="Screenshot" src="https://github.com/user-attachments/assets/de95adfc-feae-4527-acf0-105d7a714612" />
 
+---
+📸 Preview  JavaScript
+
+<img width="1366" height="768" alt="Screenshot JavasScript-Calculator" src="https://github.com/user-attachments/assets/c47b5f82-ed3e-4926-868c-a1d3f2057dfc" />
+
+---
+📸 Preview  Python
+
+<img width="1366" height="768" alt="Screenshot Python-Calculator" src="https://github.com/user-attachments/assets/4bafbcd7-0996-4e07-84c6-554fe76a465b" />
 
 ---
 
